@@ -1,9 +1,9 @@
 # 1.Các bước
 
-- tạo guthub và một project
-- thiết kế giao diện website
-- chỉnh sửa trong VSCode
-- push và commit lên github
+- Tạo guthub và một project
+- Thiết kế giao diện website
+- Chỉnh sửa trong VSCode
+- Push và commit lên github
 
 # 2.Ảnh giao diện trang web 
 
